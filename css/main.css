@@ -11,6 +11,8 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
+
+  font-family: "One Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -19,7 +21,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "One Sans", sans-serif;
+  line-height: normal;
 }
 
 .img-flex {
