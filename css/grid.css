@@ -3,11 +3,6 @@
   https://gridifier.web-dev.tools/#xs,1,0,0,0;s,2,25,0,0;m,3,38,1,1;l,3,60,1,1;xl,3,80,1,1
 */
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
 .grid {
   margin: 0;
   padding: 0;
